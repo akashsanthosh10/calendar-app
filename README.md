@@ -1,5 +1,5 @@
 
-#  Calendar App with Event Scheduling
+#  Calendar App 
 
 A simple and responsive calendar web app built with **React + Vite**, allowing users to view dates and schedule daily events. The application also supports deployment via GitHub Pages.
 
